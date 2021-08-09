@@ -14,4 +14,5 @@ https://javascript.info/events-change-input<br />
 https://javascript.info/forms-submit<br />
 
 
-##### 2. 
+##### 2. Linkdəki slideri yığmağa çalışın:
+https://mobirise.com/extensions/startupamp/sliders-videos.html
